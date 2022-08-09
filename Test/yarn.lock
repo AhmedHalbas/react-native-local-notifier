@@ -5828,9 +5828,10 @@
   "resolved" "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.7.tgz"
   "version" "0.0.7"
 
-"react-native-local-notifier@file:.yalc/react-native-local-notifier":
-  "resolved" "file:.yalc/react-native-local-notifier"
-  "version" "1.0.0"
+"react-native-local-notifier@^1.0.1":
+  "integrity" "sha512-e5wRO+VJMOlAdx7l0ZWKMeoQUdfd8W9ixIMPOFSgYFj3Ty9S/bVaojZt9sT23OtGSsLdKR3NYnDi2brzVBaxZA=="
+  "resolved" "https://registry.npmjs.org/react-native-local-notifier/-/react-native-local-notifier-1.0.1.tgz"
+  "version" "1.0.1"
 
 "react-native@*", "react-native@0.69.3":
   "integrity" "sha512-SyGkcoEUa/BkO+wKVnv4OsnLSNfUM5zLNXS3iT/3eXjKX91/FKBH/nfR9BE1c60X5LQe/P5QYqr6WPX3TRSQkA=="
