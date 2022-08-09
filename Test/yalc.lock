@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-native-local-notifier": {
+      "signature": "46c3b3e9c0398700e67f1ee07f8a357a",
+      "file": true
+    }
+  }
+}
